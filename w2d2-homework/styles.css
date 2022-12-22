@@ -128,7 +128,7 @@ section #partners .partner {
   border-radius: 50%;
 }
 section #partners .partner img {
-  width: 60px;
+  width: 70px;
   height: 60px;
 }
 
@@ -187,7 +187,7 @@ footer #nondisclaimer .social .fa-instagram {
   color: white;
   width: 40px;
 }
-.partner.col-xs-12.col-sm-6.col-md-4.col-lg-2 {
+#partner.col-xs-12.col-sm-6.col-md-4.col-lg-1 {
 
 }
 .wrap {
